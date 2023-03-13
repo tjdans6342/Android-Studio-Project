@@ -1,5 +1,5 @@
 # 프로젝트 소개
-![image](https://user-images.githubusercontent.com/70836243/224592075-51882a92-9915-48e1-b34f-2bdaedf62f21.png)
+![image](https://user-images.githubusercontent.com/70836243/224594213-bcd3514d-cf63-4c59-b082-943b4c5c7084.png)
 
 <br>
 
