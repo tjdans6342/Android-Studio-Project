@@ -21,5 +21,5 @@
 <br>
 <br>
 
+앱 발표 영상: https://www.youtube.com/watch?v=4uJ0ucmKLG8
 크롤링 영상: https://www.youtube.com/watch?v=v0DM_7eIYQU  
-앱 시연 영상: https://www.youtube.com/watch?v=8-x8dwtm2jY
